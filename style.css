@@ -1,0 +1,19 @@
+.container{
+    background-color: #666;
+}
+.digit{
+    background-color: white;
+    height: 40px;
+    font-size: 30px;
+}
+.same,.num{
+    border: 2px solid white;
+}
+.guess{
+    height: 50px;
+    width: 100px;
+}
+.message{
+    font-size: 20px;
+    font-style: italic;
+}
